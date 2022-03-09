@@ -1,1 +1,2 @@
-# pensamento-computacional
+professor welington 
+escola gabriela mistral
